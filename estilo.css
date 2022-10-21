@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+  
+    
+}
+
+h1 {
+    margin: 0px;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+#cabeçalho{
+    text-align: center;
+    color: white;
+    margin: 0;
+    background-color: #21022d;
+    padding: 8px;
+}
+h2{
+   margin: 32px;
+   margin-top: 40px;
+   
+}
+#vit.abacate{
+   height: 32px;
+   
+}
+
+.d1{
+   padding: 24px;
+   background-color: #21022d;
+}
+.d2{
+    margin-top: 32px;
+    margin: 64px;
+    
+
+}
+.d3{
+    margin-top: 32px;
+    margin: 64px;
+}
+.d4{
+    margin-top: 32px;
+    margin: 64px;
+}
+.d5{
+    margin-top: 32px;
+    margin: 64px;
+} 
+.d6{
+    margin-top: 32px;
+    margin: 64px;
+}
+.d7{
+    margin-top: 32px;
+    margin: 64px;
+}
+.d8{
+    margin-top: 32px;
+    margin: 64px;
+    margin-left: 400px;
+    
+}
+.tudo{
+    margin: 24px;
+    background-color: #e2d8e7 ;
+    padding-top: 1px;
+    
+}
+.final{
+    text-align: center;
+    color: white;
+    margin-top: -40px;
+    background-color: #21022d;
+   padding-block: 16px;
+
+
+}
+#lactose{
+    text-align: center;
+    margin-left: -400px;
+}
+#cardapio{
+    margin-top: 16px;
+    margin-left: 16px;
+}
